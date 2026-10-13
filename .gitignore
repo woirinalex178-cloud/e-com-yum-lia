@@ -1,0 +1,17 @@
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+private/
+
+# Exports Shopify et données clients
+exports/
+customers/
+orders/
+
+# Fichiers système
+.DS_Store
+Thumbs.db

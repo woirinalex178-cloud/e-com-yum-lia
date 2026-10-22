@@ -2,19 +2,22 @@
 
 ## Priorité 0 — indispensable avant ouverture
 
-- [ ] Vérifier le nom de marque, le contact et les liens du pied de page.
-- [ ] Finaliser chaque fiche produit : bénéfice, caractéristiques, utilisation, contenu du colis, variantes, prix et délai réel.
-- [ ] Afficher clairement livraison, retours, service client et éventuelles conditions.
-- [ ] Relire et mettre à jour les pages légales avec les informations exactes de l’activité.
+- [ ] Vérifier le nom de marque, le contact et les liens du pied de page. *(contact et politiques faits ; liens du pied de page à vérifier)*
+- [ ] Finaliser chaque fiche produit : bénéfice, caractéristiques, utilisation, contenu du colis, variantes, prix et délai réel. *(3 appareils faits le 21/10 ; reste FAQ sur Kit, Recharge, Diffuseur, Pack)*
+- [x] Afficher clairement livraison, retours, service client et éventuelles conditions. *(22/10)*
+- [x] Relire et mettre à jour les pages légales avec les informations exactes de l’activité. *(SIRET, médiateur CM2C)*
 - [ ] Tester une commande complète sur mobile : panier, paiement, confirmation et e-mail reçu.
 - [ ] Vérifier que les prix, frais de livraison et délais annoncés correspondent réellement à l’exécution.
 
+- [ ] Relier les fiches à leurs fournisseurs dans DSers.
+- [ ] Installer la collecte d’avis (Judge.me installé le 22/10, à vérifier).
+
 ## Priorité 1 — conversion et confiance
 
-- [ ] Ajouter une réassurance lisible près de l’achat : livraison, retours, paiement et contact.
+- [x] Ajouter une réassurance lisible près de l’achat : livraison, retours, paiement et contact.
 - [ ] Améliorer les visuels et la hiérarchie des bénéfices sur les pages produit.
 - [ ] Vérifier les versions mobile de l’accueil, collection, fiche produit et panier.
-- [ ] Choisir le statut de « Le Journal » : publier des articles utiles ou retirer temporairement le lien.
+- [x] Choisir le statut de « Le Journal » : on garde, article de Noël publié début novembre.
 - [ ] Préparer les réponses clients récurrentes : suivi, livraison, retour, utilisation et remboursement.
 
 ## Priorité 2 — après les premiers retours

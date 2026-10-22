@@ -5,6 +5,7 @@ Ce dépôt centralise le suivi éditorial et opérationnel de la boutique Yumél
 ## Repères
 
 - [Avancement](docs/AVANCEMENT.md)
+- [À faire — Alex](docs/A_FAIRE_ALEX.md)
 - [Backlog de lancement](docs/BACKLOG.md)
 - [Décisions](docs/DECISIONS.md)
 - [Journal des modifications](docs/CHANGELOG.md)
